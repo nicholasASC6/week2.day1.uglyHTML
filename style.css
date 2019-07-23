@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+
+.top{
+    text-align: center;
+}
+
+header{
+    font-size: 72px;
+    font-style: italic ;
+}
+
+h3{
+    font-size: 26px;
+    font-style: unset;
+}
+
+.watch_container{
+    background: #1A1818;
+    border: solid 2px #FDEFA6;
+}
+
+img{
+    width: 150px;
+}
